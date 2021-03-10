@@ -11,3 +11,4 @@
         <h1>Successfully war is deployed  in TomCat</h1>
     </body>
 </html>
+</body/>
